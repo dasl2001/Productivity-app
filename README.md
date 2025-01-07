@@ -1,8 +1,7 @@
-# React + Vite
+Group assignment for the course Group Assignment for the course Frontend 2 – JavaScript-bibliotek och ramverk at Nackademin 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Assignment:   
+Ni ska skapa en applikation som ska underlätta produktivitet i vardagslivet där användare ska bland annat kunna hålla koll på sina dagliga rutiner, ärenden, och händelser. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Information about the program:   
+https://nackademin.se/utbildningar/webbutvecklare-fullstack-open-source/ 
