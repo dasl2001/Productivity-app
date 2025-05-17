@@ -1,7 +1,24 @@
-Group assignment for the course Group Assignment for the course Frontend 2 – JavaScript-bibliotek och ramverk at Nackademin 
 
-Assignment:   
-Ni ska skapa en applikation som ska underlätta produktivitet i vardagslivet där användare ska bland annat kunna hålla koll på sina dagliga rutiner, ärenden, och händelser. 
+**En produktivitetsapp skapad som en del av kursen Frontend 2 vid Nackademin.**  
+Målet är att underlätta vardagen genom att låta användare hantera sina dagliga rutiner, uppgifter och händelser på ett smidigt och effektivt sätt.
 
-Information about the program:   
-https://nackademin.se/utbildningar/webbutvecklare-fullstack-open-source/ 
+## Projektbeskrivning
+Applikationen är utvecklad i grupp inom kursen **Frontend 2 – JavaScript-bibliotek och ramverk** på Nackademin, Webbutvecklare fullstack open source. 
+Projektet går ut på att bygga en modern, interaktiv och responsiv webbaserad produktivitetslösning med hjälp av ett JavaScript-ramverk.
+
+## Funktioner
+
+- Lägg till, redigera och ta bort dagliga uppgifter
+- Planera och strukturera rutiner och händelser
+- Kalender- eller lista-vy
+- Responsiv design för mobil, surfplatta och dator
+- Enkelt, intuitivt gränssnitt
+
+## Tekniker
+
+- JavaScript 
+- React
+- HTML & CSS
+
+
+
