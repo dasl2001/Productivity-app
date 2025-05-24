@@ -3,6 +3,6 @@ export const authenticateUser = (username, password) => {
     if (users[username] && users[username].password === password) {
       return true;
     }
-    return false;
+    return false; 
   };
   
