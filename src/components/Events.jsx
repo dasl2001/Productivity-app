@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react'; 
 const Events = () => {
   const [events, setEvents] = useState([]);
   const [eventName, setEventName] = useState('');
