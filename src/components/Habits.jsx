@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-const Habits = () => {
+const Habits = () => { 
   const [habits, setHabits] = useState([]);
   const [habitName, setHabitName] = useState('');
   const [priority, setPriority] = useState('låg');
