@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 const TodoDetails = () => {
   const { id } = useParams();
-  const navigate = useNavigate();
+  const navigate = useNavigate(); 
   const [todo, setTodo] = useState(null);
   const [title, setTitle] = useState('');
   const [description, setDescription] = useState('');
