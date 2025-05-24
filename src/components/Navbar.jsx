@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-const Navbar = () => {
+const Navbar = () => { 
   const navigate = useNavigate();
   const loggedInUser = sessionStorage.getItem('loggedInUser');
   const handleLogout = () => {
