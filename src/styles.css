@@ -168,7 +168,7 @@ a:hover {
     border-radius: 10px;
     z-index: 1000;
   }
-  .confirm-popup p {
+  .confirm-popup p { 
     margin-bottom: 20px;
   }
   .past-event {
